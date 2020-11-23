@@ -16,3 +16,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     tibble
+URL: https://github.com/msk940609/MoleNet
+BugReports: https://github.com/msk940609/MoleNet/issues
